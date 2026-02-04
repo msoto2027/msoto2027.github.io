@@ -1,0 +1,35 @@
+body {
+  background-color: #f4f1f3;
+}
+
+h1 {
+  color: #ab2a98;
+  font-family: baskerville, serif;
+}
+
+h2 {
+  color: #40b65e;
+}
+
+h4 {
+  color: #13b3a7;
+}
+
+div {
+  width: 150px;
+  height: 50px;
+  background-color: #13b3a7;
+  border: 1px solid #000000;
+  padding: 20px;
+  margin: 10px;
+}
+
+p {
+  font-family: baskerville, serif;
+  color: #440840;
+}
+
+main {
+  margin: 20px auto;
+  padding: 32px;
+}
